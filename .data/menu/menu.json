@@ -1,0 +1,26 @@
+{
+    "1001":{
+        "name": "Orange Juice",
+        "price": 7.80
+    },
+    "1002":{
+        "name": "Pinaple Juice",
+        "price": 8.00
+    },
+    "2001":{
+        "name": "Peperoni Pizza",
+        "price" : 34.90
+    },
+    "2002":{
+        "name": "Pinaple Pizza",
+        "price": 55.78
+    },
+    "3001":{
+        "name": "Pudim",
+        "price": 5.67
+    },
+    "3002":{
+        "name": "Icecream",
+        "price": 3.56
+    }
+}
